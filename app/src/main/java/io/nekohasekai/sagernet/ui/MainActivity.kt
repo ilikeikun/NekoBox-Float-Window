@@ -49,7 +49,11 @@ import io.nekohasekai.sagernet.ktx.onMainDispatcher
 import io.nekohasekai.sagernet.ktx.parseProxies
 import io.nekohasekai.sagernet.ktx.readableMessage
 import io.nekohasekai.sagernet.ktx.runOnDefaultDispatcher
+import io.nekohasekai.sagernet.ktx.runOnIoDispatcher
+import io.nekohasekai.sagernet.ktx.runOnMainDispatcher
 import moe.matsuri.nb4a.utils.Util
+import libcore.Libcore
+import androidx.core.net.toUri
 
 class MainActivity : ThemedActivity(),
     SagerConnection.Callback,
@@ -154,6 +158,7 @@ class MainActivity : ThemedActivity(),
                 .setPositiveButton(android.R.string.ok, null)
                 .show()
         }
+        checkUpdateOnStart()
     }
 
     fun refreshNavMenu(clashApi: Boolean) {
@@ -379,6 +384,10 @@ class MainActivity : ThemedActivity(),
             }
 
             R.id.nav_about -> if (!KIOSK_MODE) displayFragment(AboutFragment()) else return false
+            R.id.nav_check_update -> {
+                checkUpdateOnStart(true)
+                return false
+            }
             R.id.nav_tuiguang -> {
                 if (KIOSK_MODE) return false
                 launchCustomTab("https://neko-box.pages.dev/喵")
@@ -429,6 +438,97 @@ class MainActivity : ThemedActivity(),
     override fun onBinderDied() {
         connection.disconnect(this)
         connection.connect(this, this)
+    }
+
+    private fun checkUpdateOnStart(manual: Boolean = false) {
+        runOnIoDispatcher {
+            try {
+                val client = Libcore.newHttpClient().apply {
+                    modernTLS()
+                    trySocks5(DataStore.mixedPort)
+                }
+                val response = client.newRequest().apply {
+                    setURL("https://gitee.com/api/v5/repos/kewk/NekoBox-Float-Window/releases/latest")
+                }.execute()
+                val text = Util.getStringBox(response.contentString)
+                val json = org.json.JSONObject(text)
+                val name = json.optString("name")
+                val tag = json.optString("tag_name")
+                val versionSource = if (name.isNotBlank()) name else tag
+                if (versionSource.isBlank()) {
+                    if (manual) {
+                        runOnMainDispatcher {
+                            snackbar(getString(R.string.update_check_failed)).show()
+                        }
+                    }
+                    return@runOnIoDispatcher
+                }
+                val prefix = "NekoBox-FloatWindow-v"
+                val index = versionSource.indexOf(prefix)
+                if (index == -1) {
+                    if (manual) {
+                        runOnMainDispatcher {
+                            snackbar(getString(R.string.update_check_failed)).show()
+                        }
+                    }
+                    return@runOnIoDispatcher
+                }
+                val version = versionSource.substring(index + prefix.length).trim()
+                val current = "1.0.3"
+                if (version.isBlank()) {
+                    if (manual) {
+                        runOnMainDispatcher {
+                            snackbar(getString(R.string.update_check_failed)).show()
+                        }
+                    }
+                    return@runOnIoDispatcher
+                }
+                if (version == current) {
+                    if (manual) {
+                        runOnMainDispatcher {
+                            snackbar(getString(R.string.update_latest)).show()
+                        }
+                    }
+                    return@runOnIoDispatcher
+                }
+                val assets = json.optJSONArray("assets")
+                var downloadUrl: String? = null
+                if (assets != null) {
+                    for (i in 0 until assets.length()) {
+                        val asset = assets.optJSONObject(i) ?: continue
+                        val assetName = asset.optString("name")
+                        if (assetName.contains("arm64", ignoreCase = true) || assetName.contains("arm64-v8a", ignoreCase = true)) {
+                            downloadUrl = asset.optString("browser_download_url")
+                            if (downloadUrl.isNotBlank()) break
+                        }
+                    }
+                }
+                if (downloadUrl.isNullOrBlank()) {
+                    downloadUrl = "https://gitee.com/kewk/NekoBox-Float-Window/releases/download/v$version/NekoBox-FloatWindow-v$version-arm64-v8a.apk"
+                }
+                val finalUrl = downloadUrl
+                runOnMainDispatcher {
+                    MaterialAlertDialogBuilder(this@MainActivity)
+                        .setTitle(R.string.update_dialog_title)
+                        .setMessage(getString(R.string.update_dialog_message, current, "v$version"))
+                        .setPositiveButton(R.string.yes) { _, _ ->
+                            try {
+                                val intent = Intent(Intent.ACTION_VIEW, finalUrl.toUri())
+                                startActivity(intent)
+                            } catch (_: Exception) {
+                            }
+                        }
+                        .setNegativeButton(R.string.no, null)
+                        .show()
+                }
+            } catch (_: Exception) {
+                if (manual) {
+                    runOnMainDispatcher {
+                        snackbar(getString(R.string.update_check_failed)).show()
+                    }
+                }
+            }
+        }
     }
 
     private val connect = registerForActivityResult(VpnRequestActivity.StartService()) {
