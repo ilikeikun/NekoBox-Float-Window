@@ -16,7 +16,5 @@ jniLibs/
 .idea/deploymentTargetDropDown.xml
 /nkmr
 
-/-Plugin Application-/
-
 # submodules
 /external
