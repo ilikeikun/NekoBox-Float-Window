@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.8.1" type="configured_issues">
+    <config id="ContentDescription" severity="ignore"/>
+    <config id="ConvertToWebp" severity="ignore"/>
+    <config id="DiscouragedPrivateApi" severity="ignore"/>
+    <config id="DuplicateStrings" severity="ignore"/>
+    <config id="ExtraTranslation" severity="ignore"/>
+    <config id="HardcodedText" severity="ignore"/>
+    <config id="ImpliedQuantity" severity="ignore"/>
+    <config id="InsecureBaseConfiguration" severity="ignore"/>
+    <config id="InvalidPackage" severity="ignore"/>
+    <config id="MissingQuantity" severity="ignore"/>
+    <config id="MissingTranslation" severity="ignore"/>
+    <config id="NotifyDataSetChanged" severity="ignore"/>
+    <config id="PluralsCandidate" severity="ignore"/>
+    <config id="PrivateResource" severity="ignore"/>
+    <config id="RestrictedApi" severity="ignore"/>
+    <config id="RtlHardcoded" severity="ignore"/>
+    <config id="RtlSymmetry" severity="ignore"/>
+    <config id="SelectableText" severity="ignore"/>
+    <config id="SetTextI18n" severity="ignore"/>
+    <config id="SyntheticAccessor" severity="ignore"/>
+    <config id="TrustAllX509TrustManager" severity="ignore"/>
+    <config id="TypographyQuotes" severity="ignore"/>
+    <config id="Typos" severity="ignore"/>
+    <config id="UnknownNullness" severity="ignore"/>
+    <config id="Untranslatable" severity="ignore"/>
+    <config id="UnusedAttribute" severity="ignore"/>
+    <config id="UnusedIds" severity="ignore"/>
+    <config id="UnusedResources" severity="ignore"/>
+    <config id="UselessLeaf" severity="ignore"/>
+    <config id="UselessParent" severity="ignore"/>
+    <config id="VectorRaster" severity="ignore"/>
+
+</incidents>

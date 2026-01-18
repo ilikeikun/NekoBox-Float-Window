@@ -1,0 +1,34 @@
+<variant
+    name="fdroidRelease"
+    package="io.nekohasekai.sagernet"
+    minSdkVersion="21"
+    targetSdkVersion="35"
+    shrinking="true"
+    mergedManifest="build\intermediates\merged_manifest\fdroidRelease\processFdroidReleaseMainManifest\AndroidManifest.xml"
+    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android-optimize.txt-8.8.1;proguard-rules.pro"
+    partialResultsDir="build\intermediates\lint_vital_partial_results\fdroidRelease\lintVitalAnalyzeFdroidRelease\out"
+    desugaredMethodsFiles="C:\Users\99313\.gradle\caches\8.10.2\transforms\3cb5b7e612adec622dbf855b81efaba2\transformed\desugar_jdk_libs_configuration-2.0.3-desugar-lint.txt;C:\Users\99313\.gradle\caches\8.10.2\transforms\d28788a5f9c868434b59ca8eb16a24e2\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      coreLibraryDesugaring="true"
+      viewBinding="true"
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\fdroid\java;src\release\java;src\fdroidRelease\java;src\main\kotlin;src\fdroid\kotlin;src\release\kotlin;src\fdroidRelease\kotlin"
+        resDirectories="src\main\res;src\fdroid\res;src\release\res;src\fdroidRelease\res"
+        assetsDirectories="src\main\assets;src\fdroid\assets;src\release\assets;src\fdroidRelease\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="build\intermediates\javac\fdroidRelease\compileFdroidReleaseJavaWithJavac\classes;build\tmp\kotlin-classes\fdroidRelease;build\kotlinToolingMetadata;build\generated\ksp\fdroidRelease\resources;build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\fdroidRelease\processFdroidReleaseResources\R.jar"
+      type="MAIN"
+      applicationId="moe.nb4a"
+      generatedSourceFolders="build\generated\ksp\fdroidRelease\java;build\generated\ksp\fdroidRelease\kotlin;build\generated\ap_generated_sources\fdroidRelease\out;build\generated\aidl_source_output_dir\fdroidRelease\out;build\generated\source\buildConfig\fdroid\release;build\generated\data_binding_base_class_source_out\fdroidRelease\out"
+      generatedResourceFolders="build\generated\res\resValues\fdroid\release"
+      desugaredMethodsFiles="C:\Users\99313\.gradle\caches\8.10.2\transforms\3cb5b7e612adec622dbf855b81efaba2\transformed\desugar_jdk_libs_configuration-2.0.3-desugar-lint.txt;C:\Users\99313\.gradle\caches\8.10.2\transforms\d28788a5f9c868434b59ca8eb16a24e2\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

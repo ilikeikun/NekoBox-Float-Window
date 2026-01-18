@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "SHRUNK_RESOURCES_PROTO_FORMAT",
+    "kind": "Directory"
+  },
+  "applicationId": "moe.nb4a",
+  "variantName": "fdroidRelease",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 230,
+      "versionName": "1.4.3",
+      "outputFile": "shrunk-resources-proto-format-fdroid-x86_64-release.ap_"
+    }
+  ],
+  "elementType": "File"
+}

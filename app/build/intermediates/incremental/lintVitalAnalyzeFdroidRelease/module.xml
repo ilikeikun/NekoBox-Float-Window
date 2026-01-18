@@ -1,0 +1,21 @@
+<lint-module
+    format="1"
+    dir="D:\NekoBoxForAndroid\app"
+    name=":app"
+    type="APP"
+    maven="NB4A:app:unspecified"
+    agpVersion="8.8.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\99313\AppData\Local\Android\Sdk\platforms\android-35\android.jar;C:\Users\99313\AppData\Local\Android\Sdk\build-tools\35.0.1\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-35">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkAllWarnings="true"
+      warningsAsErrors="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"
+      showAll="true"/>
+  <variant name="fdroidRelease"/>
+</lint-module>

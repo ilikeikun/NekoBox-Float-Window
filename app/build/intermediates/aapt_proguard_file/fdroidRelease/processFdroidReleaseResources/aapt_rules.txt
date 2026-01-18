@@ -1,0 +1,220 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class androidx.core.content.FileProvider { <init>(); }
+-keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.RescheduleReceiver { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.SystemAlarmService { <init>(); }
+-keep class androidx.work.impl.background.systemjob.SystemJobService { <init>(); }
+-keep class androidx.work.impl.diagnostics.DiagnosticsReceiver { <init>(); }
+-keep class androidx.work.impl.foreground.SystemForegroundService { <init>(); }
+-keep class androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver { <init>(); }
+-keep class androidx.work.multiprocess.RemoteWorkManagerService { <init>(); }
+-keep class com.jakewharton.processphoenix.ProcessPhoenix { <init>(); }
+-keep class io.nekohasekai.sagernet.BootReceiver { <init>(); }
+-keep class io.nekohasekai.sagernet.QuickToggleShortcut { <init>(); }
+-keep class io.nekohasekai.sagernet.SagerNet { <init>(); }
+-keep class io.nekohasekai.sagernet.bg.ProxyService { <init>(); }
+-keep class io.nekohasekai.sagernet.bg.TileService { <init>(); }
+-keep class io.nekohasekai.sagernet.bg.VpnService { <init>(); }
+-keep class io.nekohasekai.sagernet.plugin.PluginHostService { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.AppListActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.AppManagerActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.AssetsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.BlankActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.FloatingWindowService { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.FloatingWindowSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.GroupSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.MainActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.PluginManagerActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.ProfileSelectActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.RouteSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.ScannerActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.StunActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.SwitchActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.VpnRequestActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.ChainSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.ConfigEditActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.HttpSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.HysteriaSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.MieruSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.NaiveSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.SSHSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.ShadowsocksSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.SocksSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.TrojanGoSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.TrojanSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.TuicSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.VMessSettingsActivity { <init>(); }
+-keep class io.nekohasekai.sagernet.ui.profile.WireGuardSettingsActivity { <init>(); }
+-keep class moe.matsuri.nb4a.proxy.anytls.AnyTLSSettingsActivity { <init>(); }
+-keep class moe.matsuri.nb4a.proxy.config.ConfigSettingActivity { <init>(); }
+-keep class moe.matsuri.nb4a.proxy.shadowtls.ShadowTLSSettingsActivity { <init>(); }
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SearchView { <init>(android.content.Context); }
+
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.camera.view.PreviewView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.helper.widget.Flow { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.Barrier { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.core.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.fragment.app.FragmentContainerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.preference.UnPressableLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.preference.internal.PreferenceImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.swiperefreshlayout.widget.SwipeRefreshLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.viewpager2.widget.ViewPager2 { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.blacksquircle.ui.editorkit.widget.TextProcessor { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.blacksquircle.ui.editorkit.widget.TextScroller { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.CollapsingToolbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.button.MaterialButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.button.MaterialButtonToggleGroup { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.card.MaterialCardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.checkbox.MaterialCheckBox { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.chip.Chip { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.chip.ChipGroup { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.ClippableRoundedCornerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.TouchObserverFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.navigation.NavigationView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.progressindicator.CircularProgressIndicator { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.progressindicator.LinearProgressIndicator { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.tabs.TabLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ChipTextInputComboView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ClockFaceView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ClockHandView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.TimePickerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.king.zxing.ViewfinderView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class io.nekohasekai.sagernet.widget.AppListPreference { <init>(...); }
+
+-keep class io.nekohasekai.sagernet.widget.GroupPreference { <init>(...); }
+
+-keep class io.nekohasekai.sagernet.widget.LinkOrContentPreference { <init>(...); }
+
+-keep class io.nekohasekai.sagernet.widget.OutboundPreference { <init>(...); }
+
+-keep class io.nekohasekai.sagernet.widget.ServiceButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class io.nekohasekai.sagernet.widget.StatsBar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class io.nekohasekai.sagernet.widget.UserAgentPreference { <init>(...); }
+
+-keep class moe.matsuri.nb4a.ui.ColorPickerPreference { <init>(...); }
+
+-keep class moe.matsuri.nb4a.ui.EditConfigPreference { <init>(...); }
+
+-keep class moe.matsuri.nb4a.ui.ExtendedKeyboard { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class moe.matsuri.nb4a.ui.LongClickListPreference { <init>(...); }
+
+-keep class moe.matsuri.nb4a.ui.MTUPreference { <init>(...); }
+
+-keep class moe.matsuri.nb4a.ui.SimpleMenuPreference { <init>(...); }
+
+-keep class moe.matsuri.nb4a.ui.UrlTestPreference { <init>(...); }
+

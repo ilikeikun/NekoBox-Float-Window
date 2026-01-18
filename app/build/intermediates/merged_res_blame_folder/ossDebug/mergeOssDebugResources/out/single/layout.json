@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_network.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_network.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_asset_item.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_asset_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_scanner.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_route_item.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_route_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_stun.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_stun.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_virtual_plugin_profile.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_virtual_plugin_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_empty_route.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_empty_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_apps_item.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_apps_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_profile_list.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_profile_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_appbar.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_config_settings.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_config_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_import.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_chain_settings.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_chain_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_password_dialog.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_password_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\activity_floating_window_settings.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\activity_floating_window_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_progress.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_backup.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_app_list.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_app_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\view_floating_window.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\view_floating_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_apps.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_urltest_preference_dialog.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_urltest_preference_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_app_placeholder.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_app_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_group_list.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_group_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_loglevel_help.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_loglevel_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\simple_menu_dropdown_item.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\simple_menu_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_group_item.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_group_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_route.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_edit_config.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_edit_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_logcat.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_logcat.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_webview.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\item_keyboard_key.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\item_keyboard_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_profile.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_empty.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_group.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_icon_list_item_2.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_icon_list_item_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_mtu_help.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_mtu_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_edit_group.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_edit_group.xml"
+    },
+    {
+        "merged": "io.nekohasekai.sagernet.app-mergeOssDebugResources-68:/layout/activity_floating_window_settings.xml",
+        "source": "io.nekohasekai.sagernet.app-main-71:/layout/activity_floating_window_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_assets.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_assets.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_add_entity.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_add_entity.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_about.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_loading.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_settings_activity.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_debug.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_debug.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_progress_list.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_progress_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_tools.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_main.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-mergeOssDebugResources-68:\\layout\\layout_simple_list.xml",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_simple_list.xml"
+    }
+]

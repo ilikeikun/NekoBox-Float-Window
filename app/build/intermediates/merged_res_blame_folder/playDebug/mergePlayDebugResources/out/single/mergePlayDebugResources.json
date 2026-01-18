@@ -1,0 +1,934 @@
+[
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_grid_3x3_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_grid_3x3_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_nfc_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_nfc_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_camera_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_social_share.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_social_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable-v26_ic_qu_camera_launcher.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable-v26\\ic_qu_camera_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_traffic_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\traffic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_translate_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_translate_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_webview.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\raw-zh-rCN_vmess_md5_auth.txt.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\raw-zh-rCN\\vmess_md5_auth.txt"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_add_profile_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\add_profile_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_profile.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_shadowtls_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\shadowtls_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_maps_directions.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_maps_directions.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_hysteria_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\hysteria_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_profile_config_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\profile_config_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_stun.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_stun.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_keyboard_tab_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_keyboard_tab_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_security_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_app_list_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\app_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_backup.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_fast_forward_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_fast_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_widgets_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_widgets_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_qu_shadowsocks_foreground.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_qu_shadowsocks_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_file_cloud_queue.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_file_cloud_queue.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_add_entity.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_add_entity.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_floating_window_bg.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\floating_window_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_terminal_scroll_shape.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\terminal_scroll_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\raw-zh-rCN_not_encrypted.txt.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\raw-zh-rCN\\not_encrypted.txt"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_delete.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_nat_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_nat_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_fingerprint_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_fingerprint_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\raw-zh-rCN_insecure.txt.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\raw-zh-rCN\\insecure.txt"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_format_align_left_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_format_align_left_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_local_bar_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_local_bar_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_no_encryption_gmailerrorred_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_no_encryption_gmailerrorred_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_legend_toggle_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_legend_toggle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_service_active.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_service_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\color_chip_background.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\color\\chip_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_file_file_upload.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_file_file_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_add_road_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_add_road_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_service_stopped.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_service_stopped.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_virtual_plugin_profile.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_virtual_plugin_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_service_busy.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_service_busy.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_group_list.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_group_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_domain_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_domain_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_qu_shadowsocks_launcher.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_qu_shadowsocks_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\color_chip_text_color.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\color\\chip_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_multiline_chart_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_multiline_chart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_redo_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_redo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_chain_settings.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_chain_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_color_lens_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_color_lens_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_appbar.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_http_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_http_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_profile_share_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\profile_share_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_progress_list.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_progress_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_app_list.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_app_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_service_connected.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_service_connected.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_image_camera_alt.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_image_camera_alt.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_route.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_layers_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_layers_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_texture_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_texture_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\font_jetbrains_mono.ttf.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\font\\jetbrains_mono.ttf"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_import_contacts_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_import_contacts_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_device_data_usage.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_device_data_usage.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_note_add.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_note_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_yacd_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\yacd_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_shuffle_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_shuffle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_edit_group.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_edit_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_bug_report_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_bug_report_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_image_photo.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_image_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_low_priority_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_low_priority_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_add_route_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\add_route_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_navigation_close.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_navigation_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_shadowsocks_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\shadowsocks_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_group_item.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_group_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_shutter_speed_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_shutter_speed_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_main.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_balancer_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\balancer_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_icon_list_item_2.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_icon_list_item_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_speed_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_speed_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_save_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_save_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_card_giftcard_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_card_giftcard_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_logcat_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\logcat_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_manage_search_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_manage_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_socks_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\socks_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_loglevel_help.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_loglevel_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_app_shortcut_background.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_app_shortcut_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_rule_folder_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_rule_folder_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_per_app_proxy_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\per_app_proxy_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_mtu_help.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_mtu_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_assets.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_assets.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_stream_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_stream_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_simple_menu_dropdown_item.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\simple_menu_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_dns.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_dns.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_cache_paths.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\cache_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_empty_route.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_empty_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_https_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_https_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_import.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_av_playlist_add.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_av_playlist_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_android_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_android_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\raw-zh-rCN_shadowsocks_stream_cipher.txt.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\raw-zh-rCN\\shadowsocks_stream_cipher.txt"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_item_keyboard_key.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\item_keyboard_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_kiosk_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\kiosk_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_config_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\config_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_edit_config.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_edit_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_config_settings.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_config_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_image_looks_6.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_image_looks_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_activity_floating_window_settings.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\activity_floating_window_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_import_asset_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\import_asset_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\raw_shadowsocks_stream_cipher.txt.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\raw\\shadowsocks_stream_cipher.txt"
+    },
+    {
+        "merged": "io.nekohasekai.sagernet.app-playDebug-69:/layout_activity_floating_window_settings.xml.flat",
+        "source": "io.nekohasekai.sagernet.app-main-71:/layout/activity_floating_window_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_transform_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_transform_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_add_group_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\add_group_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_maps_directions_boat.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_maps_directions_boat.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_empty.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_airplanemode_active_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_airplanemode_active_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_route_item.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_route_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_running_with_errors_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_running_with_errors_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_emoji_emotions_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_emoji_emotions_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\color_navigation_item.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\color\\navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_communication_phonelink_ring.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_communication_phonelink_ring.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_lock.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_service_idle.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_service_idle.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_route_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\route_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_sanitizer_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_sanitizer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_vpn_key_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_password_dialog.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_password_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_lock_open.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_lock_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_name_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\name_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_neko_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\neko_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_settings.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_progress.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_construction_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_construction_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_settings_password.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_settings_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_wireguard_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\wireguard_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_service_connecting.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_service_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\raw_insecure.txt.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\raw\\insecure.txt"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_flight_takeoff_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_flight_takeoff_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_settings_activity.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_naive_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\naive_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_kongyue.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\kongyue.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_multiple_stop_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_multiple_stop_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_main_drawer_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\main_drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_wrap_text_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_wrap_text_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_hardware_router.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_hardware_router.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_wb_sunny_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_wb_sunny_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_cast_connected_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_cast_connected_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_view_list_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_view_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_apps_item.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_apps_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_transgender_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_transgender_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_device_developer_mode.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_device_developer_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_link_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_link_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_tuic_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\tuic_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_service_stopping.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_service_stopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\raw_vmess_md5_auth.txt.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\raw\\vmess_md5_auth.txt"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml__generated_res_locale_config.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-play-64:\\xml\\_generated_res_locale_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_qu_camera_launcher.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_qu_camera_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_public_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_public_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_profile_list.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_profile_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_group_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\group_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_standard_v2ray_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\standard_v2ray_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_delete_sweep_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_delete_sweep_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_scanner_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\scanner_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_trojan_go_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\trojan_go_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_about.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_update_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_update_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_apps.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_image_edit.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_image_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_view_floating_window.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\view_floating_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\raw_not_encrypted.txt.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\raw\\not_encrypted.txt"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_network.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_network.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_app_placeholder.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_app_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_center_focus_weak_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_center_focus_weak_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_developer_board_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_developer_board_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_social_emoji_symbols.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_social_emoji_symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_group.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_navigation_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_simple_list.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_simple_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_baseline_undo_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\baseline_undo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_mieru_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\mieru_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_loading.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_done.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_anytls_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\anytls_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\color_navigation_icon.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\color\\navigation_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_group_action_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\group_action_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_navigation_apps.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_navigation_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_logcat.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_logcat.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_download_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_download_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_maps_360.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_maps_360.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_scanner.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\color_chip_ripple_color.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\color\\chip_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_ssh_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\ssh_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_compare_arrows_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_compare_arrows_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_description.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_profile_apply_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\profile_apply_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_push_pin_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_push_pin_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_tools.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_action_copyright.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_action_copyright.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_flip_camera_android_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_flip_camera_android_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_notification_enhanced_encryption.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_notification_enhanced_encryption.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\xml_global_preferences.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\xml\\global_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_asset_item.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_asset_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_fiber_manual_record_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_fiber_manual_record_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\menu_traffic_item_menu.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\menu\\traffic_item_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_warning_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_warning_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_urltest_preference_dialog.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_urltest_preference_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\layout_layout_debug.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\layout\\layout_debug.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable-v26_ic_qu_shadowsocks_launcher.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable-v26\\ic_qu_shadowsocks_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-playDebug-69:\\drawable_ic_baseline_timelapse_24.xml.flat",
+        "source": "C:\\Users\\99313\\.gradle\\daemon\\8.10.2\\io.nekohasekai.sagernet.app-main-71:\\drawable\\ic_baseline_timelapse_24.xml"
+    }
+]
